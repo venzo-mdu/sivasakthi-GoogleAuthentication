@@ -1,5 +1,16 @@
-# sivasakthi-GoogleAuthentication
+# google_authentication
 
+A new Flutter project.
 
+## Getting Started
 
-![googleauthentication](https://user-images.githubusercontent.com/104203753/173017542-1fe59d3d-1baf-4315-b776-43ec8443eec8.png)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
